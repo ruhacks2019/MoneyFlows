@@ -1,5 +1,7 @@
 # MoneyFlows
 
+Check out our [Devpost](https://devpost.com/software/moneyflows-cspl8k) as well! credit to @JenitaJohn
+
 MoneyFlows consists of a web-based tool designed to facilate new grads to manage their student loans and a personalized investment advisor (chatbot) using the Messenger API and a cloud tool with Natural Language Processing (NLP), built with 
 * [Node.js](https://nodejs.org/) - evented I/O for the backend
 * Express - fast node.js network app framework
